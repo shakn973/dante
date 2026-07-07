@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Requirement Analysis</title>
+<style>
+body{
+font-family:Arial;
+margin:40px;
+line-height:1.8;
+background:#f5f5f5;
+}
+.container{
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+h1,h2{
+color:#003366;
+}
+table{
+width:100%;
+border-collapse:collapse;
+}
+table,th,td{
+border:1px solid black;
+padding:10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Requirement Analysis Document</h1>
+
+<h2>Website Name</h2>
+
+<p><strong>Oline Services Platform</strong></p>
+
+<h2>Purpose</h2>
+
+<p>
+To provide users with online information, service requests, and customer support.
+</p>
+
+<h2>Target Users</h2>
+
+<ul>
+<li>General public</li>
+<li>Customers</li>
+<li>Students</li>
+<li>Staff</li>
+</ul>
+
+<h2>Content and functions of each page</h2>
+<p><strong>HOME:</strong> Welcome message, introduction,navigation.<p>
+<p><strong>SERVICES: </strong>List and description of services.<p>
+<p><strong>CONTACT: </strong>Contact form, phone number, email,address.<p>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Website Sitemap</title>
+
+<style>
+
+body{
+
+font-family:Arial;
+text-align:center;
+background:#eef;
+
+}
+
+.box{
+
+display:inline-block;
+
+padding:15px;
+
+margin:10px;
+
+border:2px solid navy;
+
+background:white;
+
+border-radius:8px;
+
+}
+
+.line{
+
+font-size:30px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Website Sitemap</h1>
+
+<div class="box">Home</div>
+
+<div class="line">↓</div>
+
+<div>
+
+<div class="box">Services</div>
+
+<div class="box">Contact</div>
+
+</div>
+
+</body>
+
+</html>

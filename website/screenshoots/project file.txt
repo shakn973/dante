@@ -1,0 +1,10 @@
+ <strong>Onlineservicesplatform/</strong>
+        |
+        |------ home.html
+        |------ service.html
+        |------ contact.html
+        |------ style.css
+        |------ script.js
+        |------ images/
+                  |----- banner.jpg
+                  |----- logo.png

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJECT REPORT</title>
+</head>
+<style>
+body{
+    font-family: sans-serif;
+    background: #f4f4f4;
+    color: #333;
+}
+header{
+    background: #0056b3;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+ul{
+        flex-direction: column;
+        text-align: left;
+    }
+</style>
+<body>
+    <h2>Work Completed</h2>
+            <ul>
+                <li>Created Home, Services, and Contact pages.</li>
+                <li>Linked all pages.</li>
+                <li>Added images.</li>
+                <li>Created a Contact form.</li>
+            </ul>
+    <h2>Tools Used</h2>
+            <ul>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>Javascript</li>
+                <li>Visual Studio Code</Code></li>
+                <li>Google Chrome</li>
+            </ul>
+    <h2>Challenges</h2>
+            <ul>
+                <li>Linking pages.</li>
+                <li>Styling the website.</li>
+                <li>Making the layout responsive.</li>
+            </ul>
+    <h2>Solution</h2>
+            <ul>
+                <li>Used relative links.</li>
+                <li>Used one external CSS file.</li>
+                <li>Tested all navigation links</li>
+            </ul>
+    
+</body>
+</html>
